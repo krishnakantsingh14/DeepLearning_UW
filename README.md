@@ -13,5 +13,5 @@ Link: https://sites.wustl.edu/jeffheaton/t81-558/
 - [ ] **Module 9** : Lasso, Ridge and Dropout
 
 
-Other Resources: Needs regular updates and Regulations
+Other Resources: Needs regular updates and Regulations  
 Convolutional Neural Networks: http://colah.github.io/posts/2014-07-Understanding-Convolutions/
